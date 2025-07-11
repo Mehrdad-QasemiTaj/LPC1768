@@ -31,6 +31,6 @@ This project is released under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by [Mehrdad Qasemi Taj](https://github.com/Mehrdad-QasemiTaj)
+Designed by [Mehrdad Qasemi Taj](https://github.com/Mehrdad-QasemiTaj)
 
 ---
